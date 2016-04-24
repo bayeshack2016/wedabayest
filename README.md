@@ -1,5 +1,6 @@
 # team wedabayest!
-# C&#35HUD
+# #HUD
+# [Our Happy Analysis Submission to help Local High Schools](http://bctaucsd.github.io/wedabayest/) 
 Bayes Hackathon 2016!
 
 Emmett Jacobs

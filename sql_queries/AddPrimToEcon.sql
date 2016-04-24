@@ -1,0 +1,1 @@
+ALTER TABLE `schools_econ` ADD `id` int(11) PRIMARY KEY NOT NULL auto_increment FIRST;

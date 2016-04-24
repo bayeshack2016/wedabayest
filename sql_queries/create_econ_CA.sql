@@ -1,0 +1,1 @@
+CREATE TABLE schools_econ(SELECT s.*, e.income, e.coef FROM Schools s INNER JOIN econ e ON s.Location_zip = e.zip WHERE s.High_School_Students >= 20);

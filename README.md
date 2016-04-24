@@ -4,8 +4,13 @@
 Bayes Hackathon 2016!
 
 *Emmett Jacobs
+
 *Sahil Shah
+
 *Brian Ta
+
 *Alex Joss
+
 *Sang Han
+
 *Kevin Hung
